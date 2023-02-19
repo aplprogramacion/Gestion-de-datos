@@ -1,3 +1,8 @@
+Hay dos ficheros docx, donde se explica paso a paso
+como se van planteando todas las partes del codigo.
+realmente son dos programas iguales pero uno echo con
+listas y otro con diccionarios.
+
 # feedbacks-universivad
 programa para gestionar datos de clientes
 Ejercicio Feedback
