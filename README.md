@@ -3,7 +3,7 @@ como se van planteando todas las partes del codigo.
 realmente son dos programas iguales pero uno echo con
 listas y otro con diccionarios.
 
-# feedbacks-universivad
+# Gestion de datos
 programa para gestionar datos de clientes
 Ejercicio Feedback
 Escribir un programa que permita gestionar los datos de clientes de una empresa. Los clientes se guardarán en un diccionario en el que la clave de cada cliente será su NIF.
