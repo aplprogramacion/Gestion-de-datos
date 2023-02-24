@@ -5,7 +5,7 @@ listas y otro con diccionarios.
 
 # Gestion de datos
 programa para gestionar datos de clientes
-Ejercicio Feedback
+
 Escribir un programa que permita gestionar los datos de clientes de una empresa. Los clientes se guardarán en un diccionario en el que la clave de cada cliente será su NIF.
 El valor asociado a cada cliente será otro diccionario o una lista, con los datos del cliente (apellidos y nombre, dirección, teléfono, correo electrónico, cliente habitual, fecha de la operación), donde “cliente habitual” tendrá el valor True si se trata de un cliente no esporádico. Se valorará que se realicen dos versiones: con campo de valor diccionario y lista.
 El carácter de cliente habitual lo introducirá el empleado de la empresa que utilizar el programa (si/no). La fecha se introducirá entre comillas en la forma: ‘12/01/2020’.
